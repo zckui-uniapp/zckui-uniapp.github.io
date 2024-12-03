@@ -1,8 +1,0 @@
-# 生成文件
-auto-imports.d.ts
-
-# 缓存文件
-.vitepress/cache
-
-# 制品文件
-dev-dist

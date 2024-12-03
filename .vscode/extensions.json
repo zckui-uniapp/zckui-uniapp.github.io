@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "dbaeumer.vscode-eslint",
-    "stylelint.vscode-stylelint",
-    "vue.volar",
-    "antfu.unocss",
-    "uni-helper.uni-helper-vscode"
-  ]
-}
