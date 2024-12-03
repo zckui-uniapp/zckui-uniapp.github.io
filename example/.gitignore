@@ -1,0 +1,11 @@
+# 生成文件
+uni-pages.d.ts
+src/auto-imports.d.ts
+src/components.d.ts
+src/pages.json
+
+# 私有文件
+project.private.config.json
+
+# 制品文件
+uni_modules
